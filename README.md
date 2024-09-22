@@ -11,8 +11,8 @@ Choose your platform to download the latest version of the unMinable project:
 
 [![Windows](https://img.shields.io/badge/Download-Windows-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unminable/terminal/releases/download/windows/unminable-windows.exe)
 [![macOS](https://img.shields.io/badge/Download-macOS-black.svg?style=for-the-badge&logo=apple)](https://github.com/devtechplus/unminable/releases/latest/download/unminable-macos.dmg)
-[![Linux (.deb)](https://img.shields.io/badge/Download-Linux--DEB-orange.svg?style=for-the-badge&logo=linux)](https://github.com/devtechplus/unminable/releases/latest/download/unminable.deb)
-[![Linux (.rpm)](https://img.shields.io/badge/Download-Linux--RPM-red.svg?style=for-the-badge&logo=linux)](https://github.com/devtechplus/unminable/releases/latest/download/unminable.rpm)
+[![Linux (.deb)](https://img.shields.io/badge/Download-Linux--DEB-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unminable/terminal/releases/download/linux/unminable-package.deb)
+[![Linux (.rpm)](https://img.shields.io/badge/Download-Linux--RPM-red.svg?style=for-the-badge&logo=linux)](https://github.com/unminable/terminal/releases/download/linux/unminable-1.0-1.src.rpm)
 
 ## Key Features:
 
