@@ -9,7 +9,7 @@ The terminal allows users to start and monitor their mining progress, view their
 
 Choose your platform to download the latest version of the unMinable project:
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue.svg?style=for-the-badge&logo=windows)](https://github.com/devtechplus/unminable/releases/latest/download/unminable-windows.exe)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unminable/terminal/releases/download/windows/unminable-windows.exe)
 [![macOS](https://img.shields.io/badge/Download-macOS-black.svg?style=for-the-badge&logo=apple)](https://github.com/devtechplus/unminable/releases/latest/download/unminable-macos.dmg)
 [![Linux (.deb)](https://img.shields.io/badge/Download-Linux--DEB-orange.svg?style=for-the-badge&logo=linux)](https://github.com/devtechplus/unminable/releases/latest/download/unminable.deb)
 [![Linux (.rpm)](https://img.shields.io/badge/Download-Linux--RPM-red.svg?style=for-the-badge&logo=linux)](https://github.com/devtechplus/unminable/releases/latest/download/unminable.rpm)
