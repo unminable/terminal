@@ -14,6 +14,8 @@ Choose your platform to download the latest version of the unMinable project:
 [![Linux (.deb)](https://img.shields.io/badge/Download-Linux--DEB-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unminable/terminal/releases/download/linux/unminable-package.deb)
 [![Linux (.rpm)](https://img.shields.io/badge/Download-Linux--RPM-red.svg?style=for-the-badge&logo=linux)](https://github.com/unminable/terminal/releases/download/linux/unminable-1.0-1.src.rpm)
 
+[![Download unMinable](https://img.shields.io/sourceforge/dt/unminable.svg)](https://sourceforge.net/projects/unminable/files/latest/download)
+
 ## Key Features:
 
 ### 1. Login and Signup with Masked Passwords
