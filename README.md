@@ -5,6 +5,15 @@
 
 The terminal allows users to start and monitor their mining progress, view their balances, and withdraw their mined funds when they reach the minimum threshold of 0.001 BTC. With a simple yet powerful interface, **unMinable** gives users full control over their mining operations from a centralized console.
 
+## Download unMinable
+
+Choose your platform to download the latest version of the unMinable project:
+
+[![Windows](https://img.shields.io/badge/Download-Windows-blue.svg?style=for-the-badge&logo=windows)](https://github.com/devtechplus/unminable/releases/latest/download/unminable-windows.exe)
+[![macOS](https://img.shields.io/badge/Download-macOS-black.svg?style=for-the-badge&logo=apple)](https://github.com/devtechplus/unminable/releases/latest/download/unminable-macos.dmg)
+[![Linux (.deb)](https://img.shields.io/badge/Download-Linux--DEB-orange.svg?style=for-the-badge&logo=linux)](https://github.com/devtechplus/unminable/releases/latest/download/unminable.deb)
+[![Linux (.rpm)](https://img.shields.io/badge/Download-Linux--RPM-red.svg?style=for-the-badge&logo=linux)](https://github.com/devtechplus/unminable/releases/latest/download/unminable.rpm)
+
 ## Key Features:
 
 ### 1. Login and Signup with Masked Passwords
