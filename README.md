@@ -1,7 +1,6 @@
 # unMinable Mining Software - Terminal Overview
 
-![Image Alt text](https://i.postimg.cc/90YTm9jr/dashboard.png)
-![Image Alt Text](https://i.postimg.cc/90YTm9jr/dashboard.png)       
+![Image Alt text](https://i.postimg.cc/90YTm9jr/dashboard.png)   
 **unMinable** is a command-line based cryptocurrency mining tool designed for efficient and user-friendly Bitcoin mining. It provides real-time hardware detection, mining process control, balance management, and automated withdrawal functionality. The software is designed to interact with Firebase to fetch and store user balances, withdrawals, and user-related data securely.
 
 The terminal allows users to start and monitor their mining progress, view their balances, and withdraw their mined funds when they reach the minimum threshold of 0.001 BTC. With a simple yet powerful interface, **unMinable** gives users full control over their mining operations from a centralized console.
