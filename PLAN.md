@@ -11,15 +11,15 @@ unMinable offers a range of subscription plans tailored for both beginner and pr
 - **Mining Fees:** None
 - **Withdrawal Duration:** 24 Hours
 - **Support:** Email Support
-- [![Buy Now](https://i.ibb.co/Rcqpbth/btc.png)](https://nowpayments.io/payment/?iid=4657270240)
+  [![Buy Now](https://i.ibb.co/Rcqpbth/btc.png)](https://nowpayments.io/payment/?iid=4657270240)
 
 ### Advanced - $199
 - **GPU Support:** Yes
 - **Mining Speed:** Medium (Estimated Earnings: $1,298/monthly)
 - **Mining Fees:** None
-- **Withdrawal Duration:** 3 Hours
+- **Withdrawal Duration:** 12 Hours
 - **Support:** Email Support
-- ![Buy Now](#advanced-plan-url)
+[![Buy Now](https://i.ibb.co/Rcqpbth/btc.png)](https://nowpayments.io/payment/?iid=5471653820)
 
 ### Business - $593
 - **GPU Support:** Yes
@@ -27,7 +27,7 @@ unMinable offers a range of subscription plans tailored for both beginner and pr
 - **Mining Fees:** None
 - **Withdrawal Duration:** 6 Minutes
 - **Support:** Email Support
-- [Buy Now](#business-plan-url)
+[![Buy Now](https://i.ibb.co/Rcqpbth/btc.png)](https://nowpayments.io/payment/?iid=6151641383)
 
 ---
 
