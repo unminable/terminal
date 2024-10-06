@@ -11,7 +11,7 @@ unMinable offers a range of subscription plans tailored for both beginner and pr
 - **Mining Fees:** None
 - **Withdrawal Duration:** 24 Hours
 - **Support:** Email Support
-- [Buy Now](#starter-plan-url)
+- [![Buw Now](https://i.postimg.cc/NGP9WjRd/bitcoin-svgrepo-com.png)](https://nowpayments.io/payment/?iid=4657270240)
 
 ### Advanced - $199
 - **GPU Support:** Yes
