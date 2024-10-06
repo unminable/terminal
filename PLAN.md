@@ -11,7 +11,7 @@ unMinable offers a range of subscription plans tailored for both beginner and pr
 - **Mining Fees:** None
 - **Withdrawal Duration:** 24 Hours
 - **Support:** Email Support
-- [<kbd> <br> Buy Now <br> <https://nowpayments.io/payment/?iid=4657270240>][KBD]
+- ![Buy Now](#https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github_sponsor.svg)
 
 ### Advanced - $199
 - **GPU Support:** Yes
@@ -19,7 +19,7 @@ unMinable offers a range of subscription plans tailored for both beginner and pr
 - **Mining Fees:** None
 - **Withdrawal Duration:** 3 Hours
 - **Support:** Email Support
-- [Buy Now](#advanced-plan-url)
+- ![Buy Now](#advanced-plan-url)
 
 ### Business - $593
 - **GPU Support:** Yes
